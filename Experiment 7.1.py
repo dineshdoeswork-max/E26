@@ -20,7 +20,7 @@ def on_click(button_text):
         entry.insert(tk.END, button_text)
 
 root = tk.Tk()
-root.title("Himanshu's Calculator")
+root.title("The Dinesh Calculator")
 root.geometry("300x250")
 
 entry = tk.Entry(root, font=("Arial", 18), borderwidth=5)
