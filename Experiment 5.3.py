@@ -8,8 +8,8 @@ def read_matrix(filename):
             matrix.append(row)
     return matrix
 
-matrix_a = read_matrix(r"E:\Xie Python\Experiments\Experiment 5.3\matrix1.txt")
-matrix_b = read_matrix(r"E:\Xie Python\Experiments\Experiment 5.3\matrix2.txt")
+matrix_a = read_matrix(r"c:\Users\DINESH\OneDrive\Code\kuchtoh\matrix1.txt")
+matrix_b = read_matrix(r"c:\Users\DINESH\OneDrive\Code\kuchtoh\matrix2.txt")
 
 print("Matrix A = ")
 print(matrix_a[0])
