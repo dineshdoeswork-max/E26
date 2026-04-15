@@ -1,7 +1,7 @@
 # 5.2 Sports Team Analyzer (Sets)
 
-football = {"Amit", "Sagar", "Pooja", "Rahul"}
-cricket = {"Rahul", "Anjali", "Sagar", "Kiran"}
+football = {"lucky", "Ayush", "Sam", "Ranveer"}
+cricket = {"virat", "Ranveer", "kalpesh", "Rick"}
 
 print("Football Team:", football)
 print("Cricket Team:", cricket)
